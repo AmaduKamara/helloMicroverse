@@ -12,4 +12,4 @@ This is an exercise required creating a repo, adding a .gitignore file and setti
 
 ## Author:
 
-Amadu Kamara
+Amadu Kamara (Amkam)
