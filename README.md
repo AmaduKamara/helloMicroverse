@@ -12,4 +12,6 @@ This is an exercise required creating a repo, adding a .gitignore file and setti
 
 ## Author:
 
-Amadu Kamara (Amkam)
+ -Github: @<https://github.com/AmaduKamara>
+ -Twitter: @<https://github.com/AmaduKamara>
+ -LinkedIn: @<https://www.linkedin.com/in/amadu-kamara-3b60a25b/>

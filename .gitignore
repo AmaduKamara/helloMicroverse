@@ -1,2 +1,2 @@
-# ignore test.md
-*.test
+test.md
+node_modules/
