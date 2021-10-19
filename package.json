@@ -1,0 +1,23 @@
+{
+  "name": "helloMicroverse",
+  "version": "1.0.0",
+  "description": "This is an exercise for creating a Hello Microverse repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmaduKamara/helloMicroverse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmaduKamara/helloMicroverse/issues"
+  },
+  "homepage": "https://github.com/AmaduKamara/helloMicroverse#readme",
+  "devDependencies": {
+    "eslint": "^8.0.1"
+  }
+}
